@@ -1,3 +1,4 @@
+[Desafio_Ebook_IAGEN .pdf](https://github.com/user-attachments/files/18170907/Desafio_Ebook_IAGEN.pdf)
 # Desafio-Ebook-IA-GEN
 Repositório desenvolvido para o Bootcamp na plataforma da DIO.  Desafio: Gerar um ebook digital com as ferramentas de IA. 
 ChatGPT：
